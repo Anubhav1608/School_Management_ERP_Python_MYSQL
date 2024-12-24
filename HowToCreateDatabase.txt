@@ -1,0 +1,7 @@
+First Open MySQL Workbench And Create A New Connection Named : School_Server
+
+Change Your Host , PassWord , User = According To You
+
+File Run Order :
+
+Student > Teacher > Staff > Users > LAF > Events > Circulars > Class 6 To 10 > Class 11 To 12
